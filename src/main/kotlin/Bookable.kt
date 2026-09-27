@@ -1,0 +1,4 @@
+interface Bookable {
+
+    fun book(){}
+}
